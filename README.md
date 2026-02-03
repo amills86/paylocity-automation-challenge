@@ -1,4 +1,4 @@
-# paylocity-automation-challenge
+# Paylocity Automation Coding Exercises
 Repository for Paylocity automation live coding exercises.
 
 This project contains both a Playwright and Cypress project for software test engineer live coding interviews. The candidate can use either project in their exercise.
