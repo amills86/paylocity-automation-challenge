@@ -1,4 +1,4 @@
-# Playwright Automation Exercise
+# Cypress Automation Exercise
 
 This is a Cypress test automation project designed for live coding interviews with software testing candidates. The project provides a starter test to help candidates demonstrate their test automation skills by building upon the existing framework.
 
