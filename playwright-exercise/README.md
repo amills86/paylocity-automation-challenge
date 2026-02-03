@@ -1,4 +1,4 @@
-# Paylocity Automation Challenge
+# Playwright Automation Exercise
 
 This is a Playwright test automation project designed for live coding interviews with software testing candidates. The project provides a starter test to help candidates demonstrate their test automation skills by building upon the existing framework.
 
