@@ -87,7 +87,7 @@ If all tests pass, you're ready for your interview!
 ```
 playwright/
 ├── tests/
-│   └── explorePayrollProducts.spec.ts  # Main test file
+│   └── explorePayrollPricing.spec.ts  # Main test file
 ├── playwright.config.ts                 # Playwright configuration
 ├── package.json                         # Project dependencies
 └── README.md                            # This file

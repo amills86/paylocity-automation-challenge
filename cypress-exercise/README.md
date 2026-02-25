@@ -39,7 +39,7 @@ npm install
 3. **Verify setup before your interview:**
    Run the starter test to ensure everything is working correctly:
    ```bash
-   npx cypress run --spec "cypress/e2e/explorePayrollProducts.cy.js"
+   npx cypress run --spec "cypress/e2e/explorePayrollPricing.cy.js"
    ```
    The test should pass successfully. If you encounter any issues, please resolve them before the interview.
 
@@ -58,12 +58,12 @@ npx cypress run
 
 #### Run a Specific Test File
 ```bash
-npx cypress run --spec "cypress/e2e/explorePayrollProducts.cy.js"
+npx cypress run --spec "cypress/e2e/explorePayrollPricing.cy.js"
 ```
 
 ## Starter Test
 
-The `explorePayrollProducts.cy.js` test demonstrates:
+The `explorePayrollPricing.cy.js` test demonstrates:
 - Navigating to the Paylocity website
 - Clicking on the Pricing link
 - Verifying form elements are visible
