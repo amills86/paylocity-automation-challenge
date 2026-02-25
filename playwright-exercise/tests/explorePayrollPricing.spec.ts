@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-test('Verify payroll products navigation and interaction', async ({ page }) => {
+test('Verify payroll pricing navigation and interaction', async ({ page }) => {
   await page.goto('https://www.paylocity.com/');
   await page.getByTitle('Pricing').click();
   await expect(page.getByRole('button', { name: 'Request Pricing' })).toBeVisible();

@@ -1,5 +1,5 @@
 describe('Explore Payroll Products', () => {
-  it('navigates to Paylocity and clicks on Products link', () => {
+  it('navigates to Paylocity and clicks on Pricing link', () => {
     cy.visit('https://www.paylocity.com/')
     cy.contains('a', 'Pricing').click()
     cy.get('input[name="email"]').should('be.visible')
